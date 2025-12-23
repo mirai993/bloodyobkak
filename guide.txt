@@ -1,0 +1,8 @@
+1. tp gmcl_zxcmodule_win64.dll to GarrysMod/garrysmod/lua/bin
+2. tp bloodyobkak.lua to GarrysMod/garrysmod/lua/
+
+inject fbypass.dll to gmod.exe w/ prhacker2
+
+join any server and type lua_openscript_cl bloodyobkak.lua
+
+PROFIT!
